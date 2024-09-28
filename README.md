@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Note Taker Web Application**
 
-- 🌱 I’m currently learning **Hibernate, Servlet and BI Power**
+- 🌱 I’m currently learning **Hibernate, Servlet and Power BI**
 
 - 📫 How to reach me **riyaggarwal1214@gmail.com**
 
