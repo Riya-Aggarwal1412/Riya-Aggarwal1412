@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-aggarwal1412&label=Profile%20views&color=0e75b6&style=flat" alt="riya-aggarwal1412" /> </p>
 
-- 🔭 I’m currently working on **Budget Tracking Project and Street Vendor Platform**
+- 🔭 I’m currently working on **Budget Tracking and Street Vendor Platform Projects**
 
 - 🌱 I’m currently learning **React Native,Flutter**
 
 - 📫 How to reach me **riyaggarwal1214@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Embracing challenges with a resilient mindset, I continuously strive for growth and innovation in my professional journey.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
