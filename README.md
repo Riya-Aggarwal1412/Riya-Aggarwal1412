@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya-aggarwal1412&label=Profile%20views&color=0e75b6&style=flat" alt="riya-aggarwal1412" /> </p>
 
-- 🔭 I’m currently working on **Note Taker Web Application**
+- 🔭 I’m currently working on **Budget Tracking Project and Street Vendor Platform**
 
-- 🌱 I’m currently learning **Hibernate, Servlet and Power BI**
+- 🌱 I’m currently learning **React Native,Flutter**
 
 - 📫 How to reach me **riyaggarwal1214@gmail.com**
 
